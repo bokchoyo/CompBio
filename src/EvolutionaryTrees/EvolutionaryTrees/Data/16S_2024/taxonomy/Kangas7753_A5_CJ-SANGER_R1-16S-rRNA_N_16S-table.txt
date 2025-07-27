@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_A5_CJ-SANGER_R1-16S-rRNA-seqF	1423	gi|645322418|ref|NR_119171.1|	1476	17	1406	1	1391	0.0	2459	1391	1380	99.209	10	1	43765	Corynebacterium amycolatum strain NCFB 2768 16S ribosomal RNA, partial sequence	plus	98
+Kangas7753_A5_CJ-SANGER_R1-16S-rRNA-seqF	1423	gi|219846623|ref|NR_026215.1|	1401	14	1406	5	1398	0.0	2454	1394	1381	99.067	12	1	43765	Corynebacterium amycolatum strain S160 16S ribosomal RNA, partial sequence	plus	98
+Kangas7753_A5_CJ-SANGER_R1-16S-rRNA-seqF	1423	gi|631250763|ref|NR_104996.1|	1452	4	1407	6	1410	0.0	2431	1405	1382	98.363	22	1	1408189	Corynebacterium lactis RW2-5 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A5_CJ-SANGER_R1-16S-rRNA-seqF	1423	gi|645319653|ref|NR_117030.1|	1378	42	1406	1	1366	0.0	2420	1366	1357	99.341	8	1	43765	Corynebacterium amycolatum 16S ribosomal RNA, partial sequence	plus	96
+Kangas7753_A5_CJ-SANGER_R1-16S-rRNA-seqF	1423	gi|343202417|ref|NR_042703.1|	1490	16	1422	1	1404	0.0	2365	1407	1370	97.370	34	3	394964	Corynebacterium hansenii strain C-138 16S ribosomal RNA, partial sequence	plus	99

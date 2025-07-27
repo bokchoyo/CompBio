@@ -1,0 +1,144 @@
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: Kangas7753_G20_SL-SANGER_R2-16S-rRNA-seqF
+# 2: Kangas7753_G20_SL-SANGER_R2-16S-rRNA-seqR
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1230
+# Identity:     297/1230 (24.1%)
+# Similarity:   297/1230 (24.1%)
+# Gaps:         913/1230 (74.2%)
+# Score: 1409.0
+# 
+#
+#=======================================
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    735 tcagggggatagcctttcgaaaggaagattaataccccataatntatnga    686
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    685 gtggcatcacttgatattgaaaactncggtggatagagatgggcacgcgc    636
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    635 aagattagatagttggtgaggtaacggctcancaagtctgcgatctttag    586
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    585 ggggcgngagagngtgatcccccacactggtantgagacatngtccagan    536
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    535 tcctacgggaggcancantgaggaatattggacaatgggtgggagcatga    486
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    485 tccagccatcccgggtgaaggatgacggccctaagggttgtaaacttctt    436
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    435 ttgtatagggataaacctaccctcgtgagggtagctgaaggtactataag    386
+
+Kangas7753_G2      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_G2    385 aataagcaccggctaactccgtgccagcagccgcggtaatacggagggtg    336
+
+Kangas7753_G2      1 ------------------tattgggtttaagggtccgtaggcggatctgt     32
+                                       ..|.||.||.||||||||||||||||||||||
+Kangas7753_G2    335 caagctttatccggatttattgggtttaaagggtccgtaggcggatctgt    286
+
+Kangas7753_G2     33 aagtcagtggtgaaatctcacagcttaactgtgaaactgccattgatact     82
+                     |||||||.||.|||||||||||||||||||||||||||||||||||||||
+Kangas7753_G2    285 aagtcaggggagaaatctcacagcttaactgtgaaactgccattgatact    236
+
+Kangas7753_G2     83 gcaggtcttgagtgttgttgaagtagctggaattcctagtgtagcggtga    132
+                     |||||||||||||||||||||||||||||||||...||||||||||||||
+Kangas7753_G2    235 gcaggtcttgagtgttgttgaagtagctggaataagtagtgtagcggtga    186
+
+Kangas7753_G2    133 aatgcatagatattacttagaacaccaattgcgaaggcaagttactgggc    182
+                     |||||||||||||||.|||||||||||||||.|||||||.||||.|..||
+Kangas7753_G2    185 aatgcatagatattagttagaacaccaattgggaaggcaggttattaagc    136
+
+Kangas7753_G2    183 aacaactgacgctgatggacgaaagcgtggggagcgaacaggattagata    232
+                     ||||||.||||||||||||.|||||.||||||||||||||||||||||||
+Kangas7753_G2    135 aacaacagacgctgatggaagaaagngtggggagcgaacaggattagata     86
+
+Kangas7753_G2    233 ccctggtagtccacgccgtaaacgatgctaactcgnttttggtatttcgg    282
+                     ||||||||||||||||||||||||||||||||||| ||||||||||||||
+Kangas7753_G2     85 ccctggtagtccacgccgtaaacgatgctaactcgtttttggtatttcgg     36
+
+Kangas7753_G2    283 tatcagagactaagcgaaagtgataagttagccacctggggagtacgaac    332
+                     |||||||||||||||||||||||||||||||||||               
+Kangas7753_G2     35 tatcagagactaagcgaaagtgataagttagccac---------------      1
+
+Kangas7753_G2    333 gcaagtttgaaactcanaggaattgacgggggcccgcacaancggtggat    382
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    383 tatgtgntttaattcgatgatacncgaggaaccttaccaaggcttaaatg    432
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    433 ggaaatgacaggcttanaannnngcttttcttcngacatttttcanggtg    482
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    483 cngcntggttgtcgnncngnncnngccgtgaggtgtgangtnnaagtcct    532
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    533 gcnnccagcgcnnncnctgnnnctagttgccatcntnaanttggggactc    582
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    583 tantganactgcctacgcaagtagagaggaaggtggggatgacntcaaat    632
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    633 catcacggcccttacnccttgggccncnnncgtaatacaatggccggtac    682
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    683 agagggcagctacacnncnatgtgatgcgnnatctcaaaagccggtctca    732
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    733 gttcngattggagtctgnaactcgactctatgaagctggaatcnctaata    782
+                                                                       
+Kangas7753_G2      0 --------------------------------------------------      1
+
+Kangas7753_G2    783 atcgcgcatcagccatggcgcggtgaatac    812
+                                                   
+Kangas7753_G2      0 ------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts: Kangas7753_G20_ Kangas7753_G20_
+#              position base   position base Using
+#                     1  't'        419  'A'   'A'
+#                     2  'a'        420  'T'   'T'
+#                     4  't'        422  'G'   'G'
+#                     7  'g'        425  'T'   'T'
+#                    10  't'        428  'A'   'A'
+#                    40  'T'        458  'g'   'T'
+#                    43  'T'        461  'a'   'T'
+#                   116  'T'        534  'a'   'T'
+#                   117  'C'        535  'a'   'C'
+#                   118  'C'        536  'g'   'C'
+#                   148  'C'        566  'g'   'C'
+#                   164  'C'        582  'g'   'C'
+#                   172  'A'        590  'g'   'A'
+#                   177  'C'        595  't'   'C'
+#                   179  'G'        597  'a'   'G'
+#                   180  'G'        598  'a'   'G'
+#                   189  'T'        607  'a'   'T'
+#                   202  'C'        620  'a'   'C'
+# 
+#
+#---------------------------------------

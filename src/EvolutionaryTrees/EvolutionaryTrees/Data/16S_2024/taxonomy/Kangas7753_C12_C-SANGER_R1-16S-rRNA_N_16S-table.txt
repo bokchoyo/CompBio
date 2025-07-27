@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_C12_C-SANGER_R1-16S-rRNA-seqF	1452	gi|219846739|ref|NR_026331.1|	1488	1	1452	21	1473	0.0	2590	1453	1446	99.518	6	1	623	Shigella flexneri strain ATCC 29903 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C12_C-SANGER_R1-16S-rRNA-seqF	1452	gi|444439587|ref|NR_074902.1|	1542	1	1452	40	1492	0.0	2585	1453	1445	99.449	7	1	585054	Escherichia fergusonii ATCC 35469 16S ribosomal RNA, complete sequence	plus	100
+Kangas7753_C12_C-SANGER_R1-16S-rRNA-seqF	1452	gi|228716249|ref|NR_027549.1|	1473	1	1452	6	1458	0.0	2582	1453	1444	99.381	8	1	585054	Escherichia fergusonii ATCC 35469 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C12_C-SANGER_R1-16S-rRNA-seqF	1452	gi|559795236|ref|NR_104826.1|	1530	1	1452	20	1472	0.0	2581	1453	1444	99.381	8	1	624	Shigella sonnei strain CECT 4887 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C12_C-SANGER_R1-16S-rRNA-seqF	1452	gi|631252844|ref|NR_114042.1|	1467	1	1452	13	1465	0.0	2579	1453	1443	99.312	9	1	562	Escherichia coli strain NBRC 102203 16S ribosomal RNA, partial sequence	plus	100

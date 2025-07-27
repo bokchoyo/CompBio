@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_A6-YL-WGS-SANGER_R1-16S-rRNA-seqF	1419	gi|636559893|ref|NR_115953.1|	1533	2	1419	29	1444	0.0	2535	1418	1414	99.718	2	2	1358420	Priestia aryabhattai B8W22 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A6-YL-WGS-SANGER_R1-16S-rRNA-seqF	1419	gi|631251439|ref|NR_112636.1|	1477	2	1419	6	1421	0.0	2526	1418	1412	99.577	4	2	1348623	Priestia megaterium NBRC 15308 = ATCC 14581 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A6-YL-WGS-SANGER_R1-16S-rRNA-seqF	1419	gi|645320214|ref|NR_117473.1|	1495	2	1419	13	1428	0.0	2523	1418	1411	99.506	5	2	1404	Priestia megaterium strain ATCC 14581 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A6-YL-WGS-SANGER_R1-16S-rRNA-seqF	1419	gi|343202907|ref|NR_043401.1|	1486	2	1419	6	1421	0.0	2516	1418	1410	99.436	6	2	1404	Priestia megaterium strain IAM 13418 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A6-YL-WGS-SANGER_R1-16S-rRNA-seqF	1419	gi|1779814807|ref|NR_164882.1|	1438	23	1419	7	1401	0.0	2492	1397	1392	99.642	3	2	2663026	Bacillus zanthoxyli strain 1433 16S ribosomal RNA, partial sequence	plus	98

@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_C9-WGS-SANGER_R1-16S-rRNA-seqF	1420	gi|645322190|ref|NR_118996.1|	1545	1	1420	40	1457	0.0	2533	1420	1415	99.648	3	2	1402	Bacillus licheniformis strain DSM 13 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C9-WGS-SANGER_R1-16S-rRNA-seqF	1420	gi|636559963|ref|NR_116023.1|	1468	1	1420	18	1435	0.0	2533	1420	1415	99.648	3	2	1402	Bacillus licheniformis strain BCRC 11702 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C9-WGS-SANGER_R1-16S-rRNA-seqF	1420	gi|444439608|ref|NR_074923.1|	1545	1	1420	40	1457	0.0	2533	1420	1415	99.648	3	2	1402	Bacillus licheniformis strain ATCC 14580 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C9-WGS-SANGER_R1-16S-rRNA-seqF	1420	gi|631252390|ref|NR_113588.1|	1475	1	1420	20	1437	0.0	2526	1420	1413	99.507	5	2	1402	Bacillus licheniformis strain NBRC 12200 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C9-WGS-SANGER_R1-16S-rRNA-seqF	1420	gi|1441204194|ref|NR_157609.1|	1508	1	1420	40	1457	0.0	2524	1420	1413	99.507	5	2	1925021	Bacillus haynesii strain NRRL B-41327 16S ribosomal RNA, partial sequence	plus	100

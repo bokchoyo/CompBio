@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_G23LH-SANGER_R1-16S-rRNA-seqF	1441	gi|636559699|ref|NR_115759.1|	1513	1	1441	39	1480	0.0	2586	1442	1439	99.792	2	1	935293	Yersinia entomophaga strain MH-1 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G23LH-SANGER_R1-16S-rRNA-seqF	1441	gi|636560722|ref|NR_116782.1|	1484	1	1441	10	1451	0.0	2577	1442	1437	99.653	4	1	685706	Yersinia nurmii strain APN3a-c 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G23LH-SANGER_R1-16S-rRNA-seqF	1441	gi|636559911|ref|NR_115971.1|	1461	1	1440	21	1461	0.0	2489	1441	1417	98.334	23	1	33060	Yersinia mollaretii strain CCUG 26331 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_G23LH-SANGER_R1-16S-rRNA-seqF	1441	gi|228716090|ref|NR_027546.1|	1461	1	1440	21	1461	0.0	2489	1441	1417	98.334	23	1	33060	Yersinia mollaretii strain CNY 7263 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_G23LH-SANGER_R1-16S-rRNA-seqF	1441	gi|636559909|ref|NR_115969.1|	1461	1	1440	21	1461	0.0	2485	1441	1416	98.265	24	1	29484	Yersinia frederiksenii strain CCUG 11293 16S ribosomal RNA, partial sequence	plus	99

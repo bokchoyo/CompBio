@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_G21_YC-SANGER_R1-16S-rRNA-seqF	1439	gi|219878200|ref|NR_025339.1|	1490	1	1439	24	1464	0.0	2558	1441	1433	99.445	6	2	47917	Serratia fonticola strain DSM 4576 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G21_YC-SANGER_R1-16S-rRNA-seqF	1439	gi|631252958|ref|NR_114156.1|	1466	1	1439	20	1460	0.0	2557	1441	1432	99.375	7	2	47917	Serratia fonticola strain NBRC 102597 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G21_YC-SANGER_R1-16S-rRNA-seqF	1439	gi|636560748|ref|NR_116808.1|	1488	1	1439	24	1463	0.0	2550	1441	1432	99.375	6	3	649197	Serratia fonticola DSM 22080 strain C1 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G21_YC-SANGER_R1-16S-rRNA-seqF	1439	gi|636558520|ref|NR_114577.1|	1457	2	1439	1	1440	0.0	2527	1442	1429	99.098	7	6	47917	Serratia fonticola strain LMG 7882 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_G21_YC-SANGER_R1-16S-rRNA-seqF	1439	gi|1199303420|ref|NR_147771.1|	1454	1	1439	2	1443	0.0	2466	1442	1414	98.058	25	3	1737515	Serratia aquatilis strain 2015-2462-01 16S ribosomal RNA, partial sequence	plus	100

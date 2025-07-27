@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_C11-WGS-SANGER_R1-16S-rRNA-seqF	1447	gi|631251440|ref|NR_112637.1|	1474	9	1447	6	1445	0.0	2590	1440	1439	99.931	0	1	1408	Bacillus pumilus strain NBRC 12092 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_C11-WGS-SANGER_R1-16S-rRNA-seqF	1447	gi|1230874626|ref|NR_148786.1|	1513	1	1447	17	1465	0.0	2589	1449	1445	99.724	2	2	1178540	Bacillus zhangzhouensis strain MCCC 1A08372 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C11-WGS-SANGER_R1-16S-rRNA-seqF	1447	gi|1230874627|ref|NR_148787.1|	1513	1	1447	17	1465	0.0	2584	1449	1444	99.655	3	2	1326968	Bacillus australimaris strain MCCC 1A05787 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C11-WGS-SANGER_R1-16S-rRNA-seqF	1447	gi|631252747|ref|NR_113945.1|	1474	9	1447	6	1445	0.0	2581	1440	1437	99.792	2	1	561879	Bacillus safensis strain NBRC 100820 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_C11-WGS-SANGER_R1-16S-rRNA-seqF	1447	gi|343201613|ref|NR_042339.1|	1531	1	1447	16	1464	0.0	2566	1449	1440	99.379	7	2	293389	Bacillus aerophilus strain 28K 16S ribosomal RNA, partial sequence	plus	100

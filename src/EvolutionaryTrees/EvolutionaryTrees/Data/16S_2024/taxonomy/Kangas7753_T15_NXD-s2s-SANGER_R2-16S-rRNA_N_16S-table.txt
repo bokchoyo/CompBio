@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_T15_NXD-s2s-SANGER_R2-16S-rRNA-seqF	1434	gi|631252511|ref|NR_113709.1|	1458	4	1427	6	1430	0.0	2554	1425	1422	99.789	2	1	285	Comamonas testosteroni strain NBRC 14951 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T15_NXD-s2s-SANGER_R2-16S-rRNA-seqF	1434	gi|1269860153|ref|NR_029161.2|	1533	4	1427	33	1457	0.0	2550	1425	1421	99.719	3	1	285	Comamonas testosteroni strain KS 0043 16S ribosomal RNA, complete sequence	plus	99
+Kangas7753_T15_NXD-s2s-SANGER_R2-16S-rRNA-seqF	1434	gi|636559681|ref|NR_115741.1|	1450	19	1427	1	1410	0.0	2527	1410	1407	99.787	2	1	363952	Comamonas thiooxydans strain S23 16S ribosomal RNA, partial sequence	plus	98
+Kangas7753_T15_NXD-s2s-SANGER_R2-16S-rRNA-seqF	1434	gi|566084834|ref|NR_108203.1|	1402	33	1427	1	1392	0.0	2366	1396	1363	97.636	28	5	510515	Comamonas guangdongensis strain CY01 16S ribosomal RNA, partial sequence	plus	97
+Kangas7753_T15_NXD-s2s-SANGER_R2-16S-rRNA-seqF	1434	gi|566085572|ref|NR_109655.1|	1455	4	1427	6	1430	0.0	2350	1427	1379	96.636	43	5	1194168	Comamonas jiangduensis strain YW1 16S ribosomal RNA, partial sequence	plus	99

@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_C9_EK-SANGER_R1-16S-rRNA-seqF	1428	gi|1315204023|ref|NR_152692.1|	1540	1	1421	40	1461	0.0	2557	1422	1421	99.930	0	1	1890302	Bacillus wiedmannii strain FSL W8-0169 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_C9_EK-SANGER_R1-16S-rRNA-seqF	1428	gi|1441204320|ref|NR_157735.1|	1509	1	1421	40	1461	0.0	2553	1422	1420	99.859	1	1	2026192	Bacillus proteolyticus strain MCCC 1A00365 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_C9_EK-SANGER_R1-16S-rRNA-seqF	1428	gi|2221405506|ref|NR_175555.1|	1555	1	1421	48	1469	0.0	2553	1422	1420	99.859	1	1	2817476	Bacillus sanguinis strain BML-BC004 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_C9_EK-SANGER_R1-16S-rRNA-seqF	1428	gi|1909404439|ref|NR_170494.1|	1576	1	1421	71	1492	0.0	2553	1422	1420	99.859	1	1	2039284	Bacillus fungorum strain 17-SMS-01 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_C9_EK-SANGER_R1-16S-rRNA-seqF	1428	gi|636559654|ref|NR_115714.1|	1535	1	1421	40	1461	0.0	2548	1422	1419	99.789	2	1	1396	Bacillus cereus strain CCM 2010 16S ribosomal RNA, partial sequence	plus	99

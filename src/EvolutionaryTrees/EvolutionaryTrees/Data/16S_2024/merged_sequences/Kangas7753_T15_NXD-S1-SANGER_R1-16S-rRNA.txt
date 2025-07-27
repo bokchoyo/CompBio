@@ -1,0 +1,142 @@
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: Kangas7753_T15_NXD-S1-SANGER_R1-16S-rRNA-seqF
+# 2: Kangas7753_T15_NXD-S1-SANGER_R1-16S-rRNA-seqR
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1446
+# Identity:     286/1446 (19.8%)
+# Similarity:   286/1446 (19.8%)
+# Gaps:        1159/1446 (80.2%)
+# Score: 1428.0
+# 
+#
+#=======================================
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    849 gacgctggcggcatgctttacacatgcaagtcgaacggtaacaggtcttc    800
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    799 ggatgctgacgagtggcgaacgggtgagtaatacatcggaacgtgcctag    750
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    749 tagtgggggataactactcgaaagagtagctaataccgcatgagatctac    700
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    699 ggatgaaagcaggggaccttcgggccttgtgctactagagcggctgatgg    650
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    649 cagattaggtagttggtggggtaaaggcttaccaagcctgcgatctgtag    600
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    599 ctggtctgagaggacgaccagccacactgggactgagacacggcccagac    550
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    549 tcctacgggaggcagcagtggggaattttggacaatgggcgaaagcctga    500
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    499 tccagcaatgccgcgtgcaggatgaaggccctcgggttgtaaactgcttt    450
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    449 tgtacggaacgaaaagcctggggctaatatccccgggtcatgacggtacc    400
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    399 gtaagaataagcaccggctaactacgtgccagcagccgcggtaatacgta    350
+
+Kangas7753_T1      1 --------------------------------------------------      0
+                                                                       
+Kangas7753_T1    349 gggtgcaagcgttaatcggaattactgggcgtaaagcgtgcgcaggcggt    300
+
+Kangas7753_T1      1 ------------tggtgaaatccccgggctcaacctgggaactgccattg     38
+                                 ||||||||||||||||||||||||||||||||||||||
+Kangas7753_T1    299 tttgtaagacagtggtgaaatccccgggctcaacctgggaactgccattg    250
+
+Kangas7753_T1     39 tgactgcaaagctagagtgcggcaganggggatggaattccgcgtgtagc     88
+                     |||||||||||||||||||||||||| |||||||||||||||||||||||
+Kangas7753_T1    249 tgactgcaaagctagagtgcggcagagggggatggaattccgcgtgtagc    200
+
+Kangas7753_T1     89 agtgaaatgcgtagatatgcggaggaacaccgatggcgaaggcaatcccc    138
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7753_T1    199 agtgaaatgcgtagatatgcggaggaacaccgatggcgaaggcaatcccc    150
+
+Kangas7753_T1    139 tgggcctgcactgacgctcatgcacgaaagcgtggggagcaaacaggatt    188
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7753_T1    149 tgggcctgcactgacgctcatgcacgaaagcgtggggagcaaacaggatt    100
+
+Kangas7753_T1    189 agataccctggtagtccacgccctaaacgatgtcaactggttgttgggtc    238
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+Kangas7753_T1     99 agataccctggtagtccacgccctaaacgatgtcaactggttgttgggtc     50
+
+Kangas7753_T1    239 ttaactgactcagtaacgaagctaacgcgtgaagttgaccgcctggggag    288
+                     ||||||||||||||||||||||||||||||||||||||||||||||||| 
+Kangas7753_T1     49 ttaactgactcagtaacgaagctaacgcgtgaagttgaccgcctgggga-      1
+
+Kangas7753_T1    289 tacggccgcaaggttgaaactcaaaggaattgacggggacccgcacaagc    338
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    339 ggtggatgatgtggtttaattcgatgcaacgcgaaaaaccttacccacct    388
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    389 ttgacatggcaggaacttaccagagatggtttggtgctcgaaagagaacc    438
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    439 tgcacacaggtgctgcatggctgtcgtcagctcgtgtcgtgagatgttgg    488
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    489 gttaagtcccgcaacgagcgcaacccttgccattagttgctacattcagt    538
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    539 tgagcactctaatgggactgccggtgacaaaccggaggaaggtggggatg    588
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    589 acgtcaagtcctcatggcccttataggtggggctacacacgtcatacaat    638
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    639 ggctggtacaaagggttgccaacccgcgagggggagctaatcccataaag    688
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    689 ccagtcgtagtccggatcgcagtctgcaactcgactgcgtgaagtcggaa    738
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    739 tcgctagtaatcgtggatcagaatgtcacggtgaatacgttcccgggtct    788
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    789 tgtacacaccgcccgtcacaccatgggagcgggtctcgccagaagtaggt    838
+                                                                       
+Kangas7753_T1      0 --------------------------------------------------      1
+
+Kangas7753_T1    839 agcctaaccgcaaggagggcgcttacacggcgggttcgtgactggg    884
+                                                                   
+Kangas7753_T1      0 ----------------------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts: Kangas7753_T15_ Kangas7753_T15_
+#              position base   position base Using
+# 
+#
+#---------------------------------------

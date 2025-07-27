@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_C8-WGS-SANGER_R1-16S-rRNA-seqF	1414	gi|1441204321|ref|NR_157736.1|	1509	1	1414	43	1455	0.0	2543	1414	1413	99.929	0	1	2026188	Bacillus tropicus strain MCCC 1A01406 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C8-WGS-SANGER_R1-16S-rRNA-seqF	1414	gi|1441204317|ref|NR_157732.1|	1509	1	1414	43	1455	0.0	2543	1414	1413	99.929	0	1	2026193	Bacillus nitratireducens strain MCCC 1A00732 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C8-WGS-SANGER_R1-16S-rRNA-seqF	1414	gi|1441204315|ref|NR_157730.1|	1509	1	1414	43	1455	0.0	2543	1414	1413	99.929	0	1	2026191	Bacillus luti strain MCCC 1A00359 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C8-WGS-SANGER_R1-16S-rRNA-seqF	1414	gi|1441204314|ref|NR_157729.1|	1509	1	1414	43	1455	0.0	2543	1414	1413	99.929	0	1	2026189	Bacillus albus strain MCCC 1A02146 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C8-WGS-SANGER_R1-16S-rRNA-seqF	1414	gi|1441204319|ref|NR_157734.1|	1509	1	1414	43	1455	0.0	2538	1414	1412	99.859	1	1	2026194	Bacillus paramycoides strain MCCC 1A04098 16S ribosomal RNA, partial sequence	plus	100

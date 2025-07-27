@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_A1_AG-CY-SANGER_R1-16S-rRNA-seqF	1446	gi|631251582|ref|NR_112780.1|	1477	2	1446	6	1450	0.0	2603	1445	1444	99.931	1	0	1428	Bacillus thuringiensis strain NBRC 101235 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A1_AG-CY-SANGER_R1-16S-rRNA-seqF	1446	gi|1441204316|ref|NR_157731.1|	1509	2	1446	26	1470	0.0	2602	1445	1444	99.931	1	0	2026190	Bacillus mobilis strain MCCC 1A05942 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A1_AG-CY-SANGER_R1-16S-rRNA-seqF	1446	gi|343202909|ref|NR_043403.1|	1486	2	1446	6	1450	0.0	2602	1445	1444	99.931	1	0	1428	Bacillus thuringiensis strain IAM 12077 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A1_AG-CY-SANGER_R1-16S-rRNA-seqF	1446	gi|636558524|ref|NR_114581.1|	1482	2	1446	16	1460	0.0	2602	1445	1444	99.931	1	0	1428	Bacillus thuringiensis strain ATCC 10792 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_A1_AG-CY-SANGER_R1-16S-rRNA-seqF	1446	gi|1441204313|ref|NR_157728.1|	1509	2	1446	26	1470	0.0	2598	1445	1443	99.862	2	0	2026186	Bacillus paranthracis strain MCCC 1A00395 16S ribosomal RNA, partial sequence	plus	99

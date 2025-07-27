@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_T18-WGS-SANGER_R1-16S-rRNA-seqF	1399	gi|636559654|ref|NR_115714.1|	1535	1	1399	42	1439	0.0	2516	1399	1398	99.929	0	1	1396	Bacillus cereus strain CCM 2010 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_T18-WGS-SANGER_R1-16S-rRNA-seqF	1399	gi|631251433|ref|NR_112630.1|	1476	1	1399	21	1418	0.0	2516	1399	1398	99.929	0	1	1396	Bacillus cereus strain NBRC 15305 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_T18-WGS-SANGER_R1-16S-rRNA-seqF	1399	gi|631252068|ref|NR_113266.1|	1474	1	1399	22	1419	0.0	2516	1399	1398	99.929	0	1	1396	Bacillus cereus strain JCM 2152 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_T18-WGS-SANGER_R1-16S-rRNA-seqF	1399	gi|444304116|ref|NR_074540.1|	1512	1	1399	49	1446	0.0	2516	1399	1398	99.929	0	1	226900	Bacillus cereus ATCC 14579 16S ribosomal RNA (rrnA), partial sequence	plus	100
+Kangas7753_T18-WGS-SANGER_R1-16S-rRNA-seqF	1399	gi|636559466|ref|NR_115526.1|	1486	1	1399	22	1419	0.0	2516	1399	1398	99.929	0	1	1396	Bacillus cereus strain IAM 12605 16S ribosomal RNA, partial sequence	plus	100

@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_A2_AD-SANGER_R1-16S-rRNA-seqF	1286	gi|631252067|ref|NR_113265.1|	1472	1	1286	22	1308	0.0	2299	1287	1282	99.611	4	1	1423	Bacillus subtilis strain JCM 1465 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_A2_AD-SANGER_R1-16S-rRNA-seqF	1286	gi|631251432|ref|NR_112629.1|	1475	1	1286	22	1308	0.0	2299	1287	1282	99.611	4	1	1423	Bacillus subtilis strain NBRC 13719 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_A2_AD-SANGER_R1-16S-rRNA-seqF	1286	gi|228716557|ref|NR_027552.1|	1517	1	1286	32	1318	0.0	2299	1287	1282	99.611	4	1	1423	Bacillus subtilis strain DSM 10 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_A2_AD-SANGER_R1-16S-rRNA-seqF	1286	gi|1269801279|ref|NR_112116.2|	1550	1	1286	49	1335	0.0	2295	1287	1281	99.534	5	1	1423	Bacillus subtilis strain IAM 12118 16S ribosomal RNA, complete sequence	plus	100
+Kangas7753_A2_AD-SANGER_R1-16S-rRNA-seqF	1286	gi|636559957|ref|NR_116017.1|	1468	1	1286	20	1306	0.0	2295	1287	1281	99.534	5	1	1423	Bacillus subtilis strain BCRC 10255 16S ribosomal RNA, partial sequence	plus	100

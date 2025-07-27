@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_T14-WGS-SANGER_R2-16S-rRNA-seqF	1260	gi|219846252|ref|NR_025842.1|	1483	3	1260	192	1449	0.0	2256	1258	1255	99.762	3	0	1399	Cytobacillus firmus strain IAM 12464 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14-WGS-SANGER_R2-16S-rRNA-seqF	1260	gi|631251438|ref|NR_112635.1|	1477	3	1260	195	1452	0.0	2252	1258	1254	99.682	4	0	1399	Cytobacillus firmus strain NBRC 15306 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14-WGS-SANGER_R2-16S-rRNA-seqF	1260	gi|645319964|ref|NR_117285.1|	1393	2	1251	145	1393	0.0	2206	1250	1240	99.200	9	1	665099	Cytobacillus oceanisediminis strain H2 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14-WGS-SANGER_R2-16S-rRNA-seqF	1260	gi|1193829139|ref|NR_147382.1|	1472	3	1260	193	1450	0.0	2197	1258	1242	98.728	16	0	1926278	Bacillus dakarensis strain Marseille-P3515 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14-WGS-SANGER_R2-16S-rRNA-seqF	1260	gi|566084948|ref|NR_108491.1|	1512	2	1260	212	1470	0.0	2180	1259	1238	98.332	21	0	859144	Cytobacillus gottheilii strain WCC 4585 16S ribosomal RNA, partial sequence	plus	99

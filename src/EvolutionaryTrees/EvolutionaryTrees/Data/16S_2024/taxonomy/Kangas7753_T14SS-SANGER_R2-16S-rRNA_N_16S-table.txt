@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_T14SS-SANGER_R2-16S-rRNA-seqF	1317	gi|559795310|ref|NR_104903.1|	1480	1	1314	15	1325	0.0	2250	1314	1286	97.869	25	3	150053	Yersinia enterocolitica subsp. palearctica strain Y11 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14SS-SANGER_R2-16S-rRNA-seqF	1317	gi|636560726|ref|NR_116786.1|	1484	1	1314	40	1350	0.0	2250	1314	1286	97.869	25	3	150053	Yersinia enterocolitica subsp. palearctica strain DSM 13030 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14SS-SANGER_R2-16S-rRNA-seqF	1317	gi|636560725|ref|NR_116785.1|	1466	1	1314	40	1350	0.0	2199	1316	1277	97.036	32	7	630	Yersinia enterocolitica strain ATCC 9610 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14SS-SANGER_R2-16S-rRNA-seqF	1317	gi|636559915|ref|NR_115975.1|	1461	1	1314	51	1361	0.0	2199	1316	1277	97.036	32	7	630	Yersinia enterocolitica strain CCUG 12369 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_T14SS-SANGER_R2-16S-rRNA-seqF	1317	gi|636559914|ref|NR_115974.1|	1461	1	1314	51	1361	0.0	2199	1316	1277	97.036	32	7	630	Yersinia enterocolitica strain CCUG 11291 16S ribosomal RNA, partial sequence	plus	99

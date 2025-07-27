@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_G23JD_2-SANGER_R1-16S-rRNA-seqF	1421	gi|961555120|ref|NR_134088.1|	1411	2	1410	3	1411	0.0	2537	1409	1408	99.929	1	0	1391911	Micrococcus aloeverae strain AE-6 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_G23JD_2-SANGER_R1-16S-rRNA-seqF	1421	gi|651343563|ref|NR_075062.2|	1525	2	1420	21	1439	0.0	2528	1419	1412	99.507	7	0	1270	Micrococcus luteus strain NCTC 2665 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_G23JD_2-SANGER_R1-16S-rRNA-seqF	1421	gi|310975249|ref|NR_037113.1|	1418	2	1417	2	1417	0.0	2527	1416	1410	99.576	6	0	1270	Micrococcus luteus strain DSM 20030 16S ribosomal RNA, partial sequence	plus	99
+Kangas7753_G23JD_2-SANGER_R1-16S-rRNA-seqF	1421	gi|636560518|ref|NR_116578.1|	1426	36	1421	1	1386	0.0	2487	1386	1383	99.784	3	0	566027	Micrococcus yunnanensis strain YIM 65004 16S ribosomal RNA, partial sequence	plus	98
+Kangas7753_G23JD_2-SANGER_R1-16S-rRNA-seqF	1421	gi|343205881|ref|NR_044365.1|	1438	34	1421	6	1392	0.0	2451	1388	1377	99.207	10	1	455343	Micrococcus endophyticus strain YIM 56238 16S ribosomal RNA, partial sequence	plus	98

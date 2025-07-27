@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_G20_SL-SANGER_R2-16S-rRNA-seqF	1230	gi|645319583|ref|NR_116977.1|	1364	1	1230	107	1333	0.0	1893	1230	1148	93.333	79	3	651561	Chryseobacterium arthrosphaerae strain CC-VM-7 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G20_SL-SANGER_R2-16S-rRNA-seqF	1230	gi|631252524|ref|NR_113722.1|	1442	1	1230	107	1333	0.0	1850	1230	1138	92.520	89	3	250	Chryseobacterium gleum strain NBRC 15054 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G20_SL-SANGER_R2-16S-rRNA-seqF	1230	gi|343201780|ref|NR_042506.1|	1438	1	1230	95	1321	0.0	1847	1230	1138	92.520	89	3	525257	Chryseobacterium gleum ATCC 35910 strain CCUG 14555 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G20_SL-SANGER_R2-16S-rRNA-seqF	1230	gi|1909404398|ref|NR_170452.1|	1423	1	1230	99	1325	0.0	1825	1230	1133	92.114	94	3	1978493	Chryseobacterium candidae strain JC507 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_G20_SL-SANGER_R2-16S-rRNA-seqF	1230	gi|1384992369|ref|NR_156145.1|	1426	1	1230	117	1343	0.0	1820	1230	1132	92.033	95	3	1813611	Chryseobacterium cucumeris strain GSE06 16S ribosomal RNA, partial sequence	plus	100

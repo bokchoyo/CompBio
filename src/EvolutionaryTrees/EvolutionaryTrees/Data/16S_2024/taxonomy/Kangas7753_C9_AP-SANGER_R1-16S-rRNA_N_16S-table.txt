@@ -1,0 +1,6 @@
+Query	Q_len	Hit	H_len	Q_start	Q_end	H_start	H_end	E-val	Bitscore	Length	Identies	Pct_ident	Mismatch	Gaps	Taxid		Species	Strand	Qcovs
+Kangas7753_C9_AP-SANGER_R1-16S-rRNA-seqF	1433	gi|2221405513|ref|NR_175559.1|	1540	1	1433	41	1472	0.0	2572	1433	1431	99.860	1	1	2699836	Staphylococcus roterodami strain EMCR19 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C9_AP-SANGER_R1-16S-rRNA-seqF	1433	gi|631252758|ref|NR_113956.1|	1477	1	1433	21	1452	0.0	2572	1433	1431	99.860	1	1	1280	Staphylococcus aureus strain NBRC 100910 16S ribosomal RNA gene, partial sequence	plus	100
+Kangas7753_C9_AP-SANGER_R1-16S-rRNA-seqF	1433	gi|636559546|ref|NR_115606.1|	1476	1	1433	23	1454	0.0	2572	1433	1431	99.860	1	1	1280	Staphylococcus aureus strain ATCC 12600 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C9_AP-SANGER_R1-16S-rRNA-seqF	1433	gi|310974964|ref|NR_036828.1|	1476	1	1433	23	1454	0.0	2568	1433	1430	99.791	2	1	1280	Staphylococcus aureus strain MVF-7 16S ribosomal RNA, partial sequence	plus	100
+Kangas7753_C9_AP-SANGER_R1-16S-rRNA-seqF	1433	gi|1269859156|ref|NR_037007.2|	1552	1	1433	48	1479	0.0	2563	1433	1429	99.721	3	1	1280	Staphylococcus aureus strain S33 R 16S ribosomal RNA, complete sequence	plus	100
