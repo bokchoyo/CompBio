@@ -32,9 +32,10 @@ func Factorize(num int) []int {
 }
 
 func IsPrime(p int) bool {
-	if p == 0 || p == 1 {
+	switch p {
+	case 0, 1:
 		return false
-	} else if p == 2 {
+	case 2:
 		return true
 	}
 
